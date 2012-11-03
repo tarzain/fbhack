@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+/Users/zain/Documents/Facebook Hackathon/fbhack/.metadata/.plugins/org.eclipse.jdt.core
-403810169.index
-3721394309.index
-3136397358.index

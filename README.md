@@ -1,4 +1,0 @@
-fbhack
-======
-
-collaborative panorama
